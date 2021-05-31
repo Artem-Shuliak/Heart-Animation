@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E627969E2618EEE3006E370C /* HeartAnimation .swift in Sources */ = {isa = PBXBuildFile; fileRef = E627969D2618EEE3006E370C /* HeartAnimation .swift */; };
 		E6AF0038261884F100AFC95C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6AF0037261884F100AFC95C /* AppDelegate.swift */; };
 		E6AF003A261884F100AFC95C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6AF0039261884F100AFC95C /* SceneDelegate.swift */; };
 		E6AF003C261884F100AFC95C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6AF003B261884F100AFC95C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E627969D2618EEE3006E370C /* HeartAnimation .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HeartAnimation .swift"; sourceTree = "<group>"; };
 		E6AF0034261884F100AFC95C /* Heart Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Heart Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6AF0037261884F100AFC95C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6AF0039261884F100AFC95C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E6AF0037261884F100AFC95C /* AppDelegate.swift */,
 				E6AF0039261884F100AFC95C /* SceneDelegate.swift */,
 				E6AF003B261884F100AFC95C /* ViewController.swift */,
+				E627969D2618EEE3006E370C /* HeartAnimation .swift */,
 				E6AF003D261884F100AFC95C /* Main.storyboard */,
 				E6AF0040261884F100AFC95C /* Assets.xcassets */,
 				E6AF0042261884F100AFC95C /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E627969E2618EEE3006E370C /* HeartAnimation .swift in Sources */,
 				E6AF003C261884F100AFC95C /* ViewController.swift in Sources */,
 				E6AF0038261884F100AFC95C /* AppDelegate.swift in Sources */,
 				E6AF003A261884F100AFC95C /* SceneDelegate.swift in Sources */,
